@@ -1,4 +1,4 @@
-## VolumeSwipe Lspoed Module(HyperOS A14-16)
+## VolumeSwipe Lsposed Module(HyperOS A14-16)
 
 Bring volume panel when you swipe near your volume buttons.
 
